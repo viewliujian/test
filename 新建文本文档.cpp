@@ -1,4 +1,4 @@
-#incluede<iostream>
+#include<iostream>
 
 int main() {
 
